@@ -214,17 +214,6 @@ De certa forma, estudar música e programação têm algo em comum:
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
----
 
 # 📈 Atualmente
 
@@ -245,9 +234,9 @@ De certa forma, estudar música e programação têm algo em comum:
 
 * [x] Aprender fundamentos de HTML
 * [x] Começar CSS
-* [ ] Aprender conceitos básicos de JavaScript
+* [x] Criar projetos próprios
 * [ ] Começar a utilizar Git e GitHub
-* [ ] Criar projetos próprios
+* [ ] Aprender conceitos básicos de JavaScript
 * [ ] Aprofundar JavaScript
 * [ ] Dominar responsividade
 * [ ] Criar projetos Front-end mais completos
@@ -279,11 +268,11 @@ Possível expansão para Full Stack
 
 # 🌱 Filosofia
 
-> **Não preciso saber tudo. Preciso continuar aprendendo.**
+> **O conhecimento é necessario, mas a paciencia é ainda mais requisitada.**
 
 Programação é uma área em que sempre existe alguma coisa nova para aprender.
 
-Por isso, este perfil também funciona como um registro da minha evolução: projetos, erros, experiências, estudos e tudo aquilo que eventualmente deixar de parecer um completo ritual de invocação de demônios.
+Por isso, este perfil também funciona como um registro da minha evolução: projetos, erros, experiências, estudos e tudo aquilo que eventualmente deixar de parecer um completo ritual de invocação de demônios e bestas amaldiçoadas.
 
 ---
 
@@ -291,11 +280,11 @@ Por isso, este perfil também funciona como um registro da minha evolução: pro
 
 <div align="left">
 
-<a href="[https://github.com/SEU_USUARIO](https://github.com/machadodeassisll76blip)">
+<a href="https://github.com/machadodeassisll76blip">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:machadodeassisll@gmail.com">
+<a href="mailto:machadodeassisll76@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -307,6 +296,6 @@ Por isso, este perfil também funciona como um registro da minha evolução: pro
 
 ### Obrigado por visitar meu perfil.
 
-**`<code>console.log("Continuando a aprender...");</code>`**
+**`<code>console.log("Continue aprendedendo e usando aquilo que aprendeu...");</code>`**
 
 </div>
